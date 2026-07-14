@@ -9,7 +9,7 @@ This project is part of my learning journey to strengthen my Python and data ana
 
 ### 📫 Connect with Me
 - **GitHub:** https://github.com/karunagulave
-- **Email:**karunagulave83@gmail.com
+- **Email:**gulavekaruna83@gmail.com
 
 ## 📌 Project Description
 This project performs Exploratory Data Analysis (EDA) on an Online Food Delivery dataset using Python. The analysis helps understand customer demographics, ordering behavior, and provides useful business insights through data visualization.
@@ -195,7 +195,7 @@ I continuously improve my technical skills by building practical projects and sh
 **karuna gulave**
 
 MOBILE.no:-9226458246
-Email:-karunagulave3@gamil.com
+Email:-gulavekaruna83@gamil.com
 💻 GitHub: https://github.com/karunagulave-creator
 
 ---
